@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Intro  -->
+<h3 align="center">
+  <samp>&gt; Hey There!, I&apos;m <b>Ethan</b></samp>
+</h3>
+<p align="center"> 
+  <samp>
+    「 I am a web developer who creates awesome full-stack, frontend, and backend applications 」
+    <br>
+    <br>
+  </samp>
+</p>
